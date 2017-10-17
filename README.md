@@ -1,4 +1,3 @@
-# Voting UX
+# Voting UX prototypes
 
-This is our quick playground to experiement with an 'idea' voting user experience and design.
-
+This is our quick playground to experiement with an 'ideal' voting user experience and design.

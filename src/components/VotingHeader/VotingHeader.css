@@ -8,6 +8,7 @@
   background: #ffffff;
   box-shadow: 0 0 3px 0 rgba(40, 40, 40, 0.1);
   align-items: center;
+  z-index: 100;
 }
 
 .VotingHeader__title {

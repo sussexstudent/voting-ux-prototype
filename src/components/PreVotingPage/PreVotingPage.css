@@ -1,0 +1,14 @@
+.PreVotingPage {
+  background-image: url('./background.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top center;
+  min-height: 100vh;
+  box-sizing: border-box;
+  padding-top: 14vw;
+  text-align: center;
+}
+
+.PreVotingPage__button {
+  font-size: 1.3rem;
+}

@@ -1,0 +1,24 @@
+.CanidateCard {
+  width: 320px;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  float: left;
+}
+
+.CanidateCard__name {
+  font-size: 1.4rem;
+  margin-bottom: 0.4rem;
+}
+
+.CanidateCard__description {
+  color: grey;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  margin-top: 0;
+  font-style: italic;
+}
+
+.CanidateCard__cta {
+  display: block;
+  font-size: 1.2rem;
+}

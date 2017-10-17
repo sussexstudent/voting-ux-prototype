@@ -1,0 +1,21 @@
+.VotingApp {
+  padding-top: 3rem;
+}
+
+.VotingApp__container {
+  padding: 0 2rem;
+}
+
+.VotingApp__group {
+  overflow: hidden;
+  margin-bottom: 3rem;
+}
+
+
+.VotingApp__reset {
+  border: 0;
+  background: transparent;
+  font-size: 1rem;
+  color: grey;
+  text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+.VotingHeader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.3rem 0.5rem;
+  display: flex;
+  background: #ffffff;
+  box-shadow: 0 0 3px 0 rgba(40, 40, 40, 0.1);
+  align-items: center;
+}
+
+.VotingHeader__title {
+  margin-right: auto;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.VotingHeader__title-for {
+  font-style: italic;
+  color: rgb(100, 100, 100);
+}
+
+.VotingHeader__finish {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-left: 1rem;
+}

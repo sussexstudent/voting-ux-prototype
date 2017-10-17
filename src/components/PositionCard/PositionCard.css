@@ -1,0 +1,29 @@
+.PositionCard {
+  width: 320px;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  float: left;
+}
+
+.PositionCard__name {
+  font-size: 1.4rem;
+}
+
+.PositionCard__description {
+  color: grey;
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.PositionCard__cta {
+  display: block;
+  font-size: 1.2rem;
+}
+
+.PositionCard__voted {
+  background: #ffdb7a;
+}
+
+.PositionCard--voted {
+  opacity: 0.3;
+}
